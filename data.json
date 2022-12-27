@@ -1,0 +1,105 @@
+{
+  "name": "Ahmad Raza",
+  "para": "data Scientist & Data Science Research  consultant @ TransOrg Analytics",
+  "city": "Pakistan",
+  "reviews": "4.8 (32 reviews)",
+  "time": "Usually responds in a few days",
+  "image": "/download3.jpg",
+  "about": "I am a punctual and motivated individual who is able to work in a busy environment and produce high standards of work. I am an excellent team worker and i am able to take instructions from all levels and build up good working relationships with all colleagues. I am flexible, reliable and possess excellent time keeping skills ",
+  "video": "/images/IMG_3074 (1).png",
+  "background": "/images/background.jpg",
+  "skills": [
+    {
+      "title": "Nodejs",
+      "projects": [
+        "Express",
+        "mySQL. ",
+        "Cors",
+        ".env",
+        "ejs",
+        "Nodemon"
+      ],
+      "image": "/images/node.png"
+    },
+    {
+      "title": "Css",
+      "projects": [
+        "Fonts",
+        "Buttons ",
+        "Quotes",
+        "Layout",
+        "Animations",
+        "Validations",
+        "DropDowns",
+        "Versions",
+        "cases"
+      ],
+      "image": "/images/css.png"
+    },
+    {
+      "title": "Html",
+      "projects": ["Tables", "images", "Videos", "Classes", "Responsiveness"],
+      "image": "/images/html.png",
+      "Done_Projects": "i Completed Many Projects Backend in Node js like i creat a complete Shopping cart App backend and many more"
+    },
+    {
+      "title": "javascript",
+      "projects": [
+        "Basics",
+        "Dom Manipulation",
+        "Validations",
+        "Fetch API/Ajax",
+        "ES6",
+        "Functions",
+        "Modern Operators"
+      ],
+      "image": "/images/javascript-logo.svg"
+    },
+    {
+      "title": "tailwind",
+      "projects": [
+        "Core Concepts",
+        "Customization",
+        "Layout",
+        "Flex Box & Grid",
+        "Spacing",
+        "Sizing",
+        "Typography",
+        "Backgrounds",
+        "Borders",
+        "Filters",
+        "Svg",
+        "Tables"
+      ],
+      "image": "/images/tailwind.png"
+    },
+    {
+      "title": "Frameworks",
+      "projects": ["jquerry", "React "],
+      "image": "/images/framework.webp"
+    },
+    {
+      "title": "Git",
+      "projects": ["pull", "push","commit", "Merge","add","remote"],
+      "image": "/images/github.png"
+    }
+  ],
+  "myProjects": [
+    {
+      "proTitle": "Quiz App",
+      "discription": "Developed using Tailwind, JavaScript, NodeJS, Express and mySQL.<br> A web app that can <br><b>-></b> Handle quizzes composed by teachers. <br><b>-></b> Users can attempt quizzes created by a teacher."
+    },
+    {
+      "proTitle": "Shopping Cart",
+      "discription": "Developed using Nodejs, Express, mySQL. <br> A web app in which <br><b>-></b> I created a complete backend of a shopping cart, <br><b>-></b> In shopping cart app a user can create order and add  their order to a cart. "
+    },
+    {
+      "proTitle": "Twitter Clone",
+      "discription": "Developed using Html, Css and javascript <br><b>-></b> I created A complete twitter clone frontend with static data using html,css,bootstrap and javaScript"
+    },
+    {
+      "proTitle": "Voter Registration System",
+      "discription": "Developed using Tailwind, javascript, Nodejs and mySQL <br> I created A complete voter registration system in which <br><b>-></b> Voters can register themselves online for voting <br><b>-></b> And admin can filter the voters data according to thier address, age ,gender, and  ward numbers "
+    }
+  ]
+}
